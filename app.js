@@ -7,6 +7,6 @@ if (amount < 10) {
 }
 
 console.log(__dirname);
-setInterval(() => {
-    console.log("hello world!");
-}, 1000)
+// setInterval(() => {
+//     console.log("hello world!");
+// }, 1000)
